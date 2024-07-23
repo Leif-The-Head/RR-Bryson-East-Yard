@@ -1,0 +1,175 @@
+{
+  "mapFeatures": {
+    "BR_EY0": {
+      "description": "Bryson East Yard base",
+      "displayName": "Bryson East Yard Ladder",
+      "trackGroupsEnableOnUnlock": {
+        "GEBRY1": true,
+        "GEBRY0": true
+      },
+      "trackGroupsAvailableOnUnlock": {
+        "GEBRY1": true,
+        "GEBRY0": true
+      },
+      "enableFeaturesOnUnlock": {},
+      "prerequisites": {},
+      "defaultEnableInSandbox": true
+    },
+    "BR_EY1": {
+      "description": "Bryson East Yard Tracks",
+      "displayName": "Bryson East Yard Tracks",
+      "trackGroupsEnableOnUnlock": {
+        "GEBRY4": true,
+        "GEBRY2": true,
+        "GEBRY3": true
+      },
+      "trackGroupsAvailableOnUnlock": {
+        "GEBRY4": true,
+        "GEBRY2": true,
+        "GEBRY3": true
+      },
+      "enableFeaturesOnUnlock": {},
+      "prerequisites": {},
+      "defaultEnableInSandbox": true
+    },
+    "BR_EY2": {
+      "description": "Bryson East Yard Tracks",
+      "displayName": "Bryson East Yard Tracks",
+      "trackGroupsEnableOnUnlock": {
+        "GEBRY5": true,
+        "GEBRY6": true,
+        "GEBRY7": true,
+        "GEBRY8": true
+      },
+      "trackGroupsAvailableOnUnlock": {
+        "GEBRY5": true,
+        "GEBRY6": true,
+        "GEBRY7": true,
+        "GEBRY8": true
+      },
+      "enableFeaturesOnUnlock": {},
+      "prerequisites": {},
+      "defaultEnableInSandbox": true
+    }
+  },
+  "progressions": {
+    "ewh": {
+      "sections": {
+        "BR_EY0": {
+          "displayName": "Bryson Yard East",
+          "description": "Extend your capacity in Bryson by adding additional stub tracks after the east yard lead.\n\nIn the first step the yard ladder is created.",
+          "prerequisiteSections": {
+            "s2": true
+          },
+          "deliveryPhases": [
+            {
+              "deliveries": [
+                {
+                  "direction": 0,
+                  "count": 4,
+                  "load": "ballast",
+                  "carTypeFilter": "GS*"
+                },
+                {
+                  "direction": 0,
+                  "count": 2,
+                  "load": "ties",
+                  "carTypeFilter": "FB*"
+                },
+                {
+                  "direction": 0,
+                  "count": 3,
+                  "load": "rails",
+                  "carTypeFilter": "FM*"
+                }
+              ],
+              "cost": 1000,
+              "industryComponent": "BR-Construction.EY0"
+            }
+          ],
+          "disableFeaturesOnUnlock": {},
+          "enableFeaturesOnUnlock": {
+            "BR_EY0": true
+          },
+          "enableFeaturesOnAvailable": {}
+        },
+        "BR_EY1": {
+          "displayName": "Bryson Yard East",
+          "description": "Extend your capacity in Bryson by adding additional stub tracks after the east yard lead.\n\nIn the second step 3 tracks are added.",
+          "prerequisiteSections": {
+            "BR_EY0": true
+          },
+          "deliveryPhases": [
+            {
+              "deliveries": [
+                {
+                  "direction": 0,
+                  "count": 6,
+                  "load": "ballast",
+                  "carTypeFilter": "GS*"
+                },
+                {
+                  "direction": 0,
+                  "count": 3,
+                  "load": "ties",
+                  "carTypeFilter": "FB*"
+                },
+                {
+                  "direction": 0,
+                  "count": 5,
+                  "load": "rails",
+                  "carTypeFilter": "FM*"
+                }
+              ],
+              "cost": 1000,
+              "industryComponent": "BR-Construction.EY1"
+            }
+          ],
+          "disableFeaturesOnUnlock": {},
+          "enableFeaturesOnUnlock": {
+            "BR_EY1": true
+          },
+          "enableFeaturesOnAvailable": {}
+        },
+        "BR_EY2": {
+          "displayName": "Bryson Yard East",
+          "description": "Extend your capacity in Bryson by adding additional stub tracks after the east yard lead.\n\nIn the final step 4 tracks are added.",
+          "prerequisiteSections": {
+            "BR_EY1": true
+          },
+          "deliveryPhases": [
+            {
+              "deliveries": [
+                {
+                  "direction": 0,
+                  "count": 8,
+                  "load": "ballast",
+                  "carTypeFilter": "GS*"
+                },
+                {
+                  "direction": 0,
+                  "count": 4,
+                  "load": "ties",
+                  "carTypeFilter": "FB*"
+                },
+                {
+                  "direction": 0,
+                  "count": 7,
+                  "load": "rails",
+                  "carTypeFilter": "FM*"
+                }
+              ],
+              "cost": 1000,
+              "industryComponent": "BR-Construction.EY2"
+            }
+          ],
+          "disableFeaturesOnUnlock": {},
+          "enableFeaturesOnUnlock": {
+            "BR_EY2": true
+          },
+          "enableFeaturesOnAvailable": {}
+        }
+      }
+    }
+  }
+}

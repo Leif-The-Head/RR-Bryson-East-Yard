@@ -1,0 +1,172 @@
+{
+  "tracks": {
+    "spans": {
+      "BR_EY00": {
+        "upper": {
+          "segmentId": "SEBRY_62b1",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_62b1",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY0": {
+        "upper": {
+          "segmentId": "SEBRY_abji",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_9rna",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY1": {
+        "upper": {
+          "segmentId": "SEBRY_seh1",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_seh1",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY2": {
+        "upper": {
+          "segmentId": "SEBRY_i17m",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_i17m",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY3": {
+        "upper": {
+          "segmentId": "SEBRY_itx5",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_itx5",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY4": {
+        "upper": {
+          "segmentId": "SEBRY_d5nf",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_d5nf",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY5": {
+        "upper": {
+          "segmentId": "SEBRY_na0x",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_na0x",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY6": {
+        "upper": {
+          "segmentId": "SEBRY_93hd",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_93hd",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY7": {
+        "upper": {
+          "segmentId": "SEBRY_e6vk",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_e6vk",
+          "distance": 5,
+          "end": "End"
+        }
+      },
+      "BR_EY8": {
+        "upper": {
+          "segmentId": "SEBRY_hf5g",
+          "distance": 5,
+          "end": "Start"
+        },
+        "lower": {
+          "segmentId": "SEBRY_hf5g",
+          "distance": 5,
+          "end": "End"
+        }
+      }
+    }
+  },
+  "areas": {
+    "bryson": {
+      "industries": {
+        "BR-Construction": {
+          "name": "Bryson Construction",
+          "localPosition": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "usesContract": false,
+          "components": {
+            "EY0": {
+              "name": "Bryson East Yard",
+              "type": "Model.OpsNew.ProgressionIndustryComponent",
+              "carTypeFilter": "*",
+              "sharedStorage": true,
+              "trackSpans": [
+                "BR_EY00"
+              ]
+            },
+            "EY1": {
+              "name": "Bryson East Yard",
+              "type": "Model.OpsNew.ProgressionIndustryComponent",
+              "carTypeFilter": "*",
+              "sharedStorage": true,
+              "trackSpans": [
+                "BR_EY0",
+                "BR_EY1"
+              ]
+            },
+            "EY2": {
+              "name": "Bryson East Yard",
+              "type": "Model.OpsNew.ProgressionIndustryComponent",
+              "carTypeFilter": "*",
+              "sharedStorage": true,
+              "trackSpans": [
+                "BR_EY3",
+                "BR_EY4"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

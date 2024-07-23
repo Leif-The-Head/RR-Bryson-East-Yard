@@ -1,0 +1,29 @@
+{
+  "manifestVersion": 5,
+  "id": "Leif.EastBrysonYard",
+  "name": "Bryson Yard East Extension",
+  "version": "1.0",
+  "requires": [
+    {
+      "id": "Zamu.StrangeCustoms"
+    },
+    {
+      "id": "AlinaNova21.AlinasMapMod",
+      "notBefore": "1.4"
+    }
+  ],
+  "loadAfter": [
+    "Tcave.TcavesCottonworks"
+  ],
+  "conflictsWith": [
+    "PrinceOfPluto.BrysonHumpYard",
+    "Tcave.TcavesMachiningAndManufacturing"
+  ],
+  "mixintos": {
+    "game-graph": [
+      "file(EBRY_tracks.json)",
+      "file(EBRY_proggraph.json)"
+    ],
+    "progressions": "file(EBRY_progressions.json)"
+  }
+}

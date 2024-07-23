@@ -1,0 +1,620 @@
+{
+  "tracks": {
+    "nodes": {
+      "N2bg": {
+        "position": {
+          "x": 5073.64551,
+          "y": 528.891235,
+          "z": 5698.698
+        },
+        "rotation": {
+          "x": 0.250001371,
+          "y": 13.5370045,
+          "z": 359.099976
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_hakt": {
+        "position": {
+          "x": 5061.536,
+          "y": 529.8484,
+          "z": 5774.02344
+        },
+        "rotation": {
+          "x": 359.099945,
+          "y": 330.837,
+          "z": -7.20460448E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_mcgw": {
+        "position": {
+          "x": 5046.26855,
+          "y": 530.250854,
+          "z": 5800.14
+        },
+        "rotation": {
+          "x": 359.599976,
+          "y": 328.837,
+          "z": -7.179877E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_4aec": {
+        "position": {
+          "x": 5035.919,
+          "y": 530.2905,
+          "z": 5817.25342
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_ywgq": {
+        "position": {
+          "x": 4999.69531,
+          "y": 530.2905,
+          "z": 5877.15332
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_3mkq": {
+        "position": {
+          "x": 4989.3457,
+          "y": 530.2905,
+          "z": 5894.26758
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_bjoi": {
+        "position": {
+          "x": 4978.996,
+          "y": 530.2905,
+          "z": 5911.382
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_sztl": {
+        "position": {
+          "x": 4968.64648,
+          "y": 530.2905,
+          "z": 5928.496
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_l6cs": {
+        "position": {
+          "x": 4958.297,
+          "y": 530.2905,
+          "z": 5945.61035
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_jq2q": {
+        "position": {
+          "x": 4947.44873,
+          "y": 530.2905,
+          "z": 5971.279
+        },
+        "rotation": {
+          "x": 1.04904175E-05,
+          "y": 344.836975,
+          "z": -7.19564E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_5n89": {
+        "position": {
+          "x": 4957.79834,
+          "y": 530.2905,
+          "z": 5954.16455
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_d0yw": {
+        "position": {
+          "x": 4876.7915,
+          "y": 530.2905,
+          "z": 6253.082
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_593h": {
+        "position": {
+          "x": 4871.489,
+          "y": 530.2905,
+          "z": 6251.56934
+        },
+        "rotation": {
+          "x": 1.04904175E-05,
+          "y": 344.836975,
+          "z": -7.19564E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_xqye": {
+        "position": {
+          "x": 5030.744,
+          "y": 530.2905,
+          "z": 5825.81055
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_bcfc": {
+        "position": {
+          "x": 5020.39453,
+          "y": 530.2905,
+          "z": 5842.925
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_73r9": {
+        "position": {
+          "x": 5010.045,
+          "y": 530.2905,
+          "z": 5860.039
+        },
+        "rotation": {
+          "x": 1.00433745E-05,
+          "y": 328.837,
+          "z": -7.18155E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_b6n4": {
+        "position": {
+          "x": 4968.14648,
+          "y": 530.2905,
+          "z": 5937.052
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_c3l3": {
+        "position": {
+          "x": 4978.496,
+          "y": 530.2905,
+          "z": 5919.9375
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_8f8z": {
+        "position": {
+          "x": 4988.8457,
+          "y": 530.2905,
+          "z": 5902.823
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_151e": {
+        "position": {
+          "x": 4999.19531,
+          "y": 530.2905,
+          "z": 5885.709
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_3zhf": {
+        "position": {
+          "x": 5009.545,
+          "y": 530.2905,
+          "z": 5868.59473
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_ctgd": {
+        "position": {
+          "x": 5019.89453,
+          "y": 530.2905,
+          "z": 5851.48047
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_mv2b": {
+        "position": {
+          "x": 4882.09229,
+          "y": 530.2905,
+          "z": 6254.596
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_9yda": {
+        "position": {
+          "x": 4887.393,
+          "y": 530.2905,
+          "z": 6256.11035
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_6saa": {
+        "position": {
+          "x": 4892.69238,
+          "y": 530.2905,
+          "z": 6257.626
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_89wn": {
+        "position": {
+          "x": 4897.99561,
+          "y": 530.2905,
+          "z": 6259.13867
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_vl12": {
+        "position": {
+          "x": 4903.29639,
+          "y": 530.2905,
+          "z": 6260.653
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NEBRY_clga": {
+        "position": {
+          "x": 4908.597,
+          "y": 530.2905,
+          "z": 6262.167
+        },
+        "rotation": {
+          "x": 1.00433781E-05,
+          "y": 344.836975,
+          "z": -7.181551E-05
+        },
+        "flipSwitchStand": false
+      }
+    },
+    "segments": {
+      "STMM_Bryson_Cottonworks_cnt8": {
+        "startId": "NEBRY_hakt"
+      },
+      "SEBRY_62b1": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "N2bg",
+        "endId": "NEBRY_hakt",
+        "priority": 0,
+        "speedLimit": 1,
+        "groupId": "s2"
+      },
+      "SEBRY_29d4": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_hakt",
+        "endId": "NEBRY_mcgw",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_35hr": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_mcgw",
+        "endId": "NEBRY_4aec",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_ibm0": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_ywgq",
+        "endId": "NEBRY_3mkq",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_qv6o": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_3mkq",
+        "endId": "NEBRY_bjoi",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_ajlp": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_bjoi",
+        "endId": "NEBRY_sztl",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_9rna": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_sztl",
+        "endId": "NEBRY_l6cs",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_ywv3": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_l6cs",
+        "endId": "NEBRY_jq2q",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY1"
+      },
+      "SEBRY_2qz5": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_sztl",
+        "endId": "NEBRY_5n89",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY2"
+      },
+      "SEBRY_i17m": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_5n89",
+        "endId": "NEBRY_d0yw",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY2"
+      },
+      "SEBRY_seh1": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_jq2q",
+        "endId": "NEBRY_593h",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY1"
+      },
+      "SEBRY_abji": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_4aec",
+        "endId": "NEBRY_xqye",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_3clj": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_xqye",
+        "endId": "NEBRY_bcfc",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_bsb1": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_bcfc",
+        "endId": "NEBRY_73r9",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_ggiu": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_73r9",
+        "endId": "NEBRY_ywgq",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY0"
+      },
+      "SEBRY_5592": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_bjoi",
+        "endId": "NEBRY_b6n4",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY3"
+      },
+      "SEBRY_zugp": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_3mkq",
+        "endId": "NEBRY_c3l3",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY4"
+      },
+      "SEBRY_6f6y": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_ywgq",
+        "endId": "NEBRY_8f8z",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY5"
+      },
+      "SEBRY_o773": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_73r9",
+        "endId": "NEBRY_151e",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY6"
+      },
+      "SEBRY_zlg8": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_bcfc",
+        "endId": "NEBRY_3zhf",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY7"
+      },
+      "SEBRY_rxjq": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_xqye",
+        "endId": "NEBRY_ctgd",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY8"
+      },
+      "SEBRY_itx5": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_b6n4",
+        "endId": "NEBRY_mv2b",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY3"
+      },
+      "SEBRY_d5nf": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_c3l3",
+        "endId": "NEBRY_9yda",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY4"
+      },
+      "SEBRY_na0x": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_8f8z",
+        "endId": "NEBRY_6saa",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY5"
+      },
+      "SEBRY_93hd": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_151e",
+        "endId": "NEBRY_89wn",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY6"
+      },
+      "SEBRY_e6vk": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_3zhf",
+        "endId": "NEBRY_vl12",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY7"
+      },
+      "SEBRY_hf5g": {
+        "style": "Yard",
+        "trackClass": "Branch",
+        "startId": "NEBRY_ctgd",
+        "endId": "NEBRY_clga",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": "GEBRY8"
+      }
+    },
+    "spans": {}
+  },
+  "splineys": {}
+}
